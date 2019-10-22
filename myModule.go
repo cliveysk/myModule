@@ -5,7 +5,7 @@ import (
 )
 
 func Version() {
-	fmt.Println("Version 2.0.0")
+	fmt.Println("Version 2.1.0")
 }
 	
 
